@@ -23,7 +23,7 @@ function App() {
   return (
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: '50px', fontFamily: 'Arial' }}>
       <h1>🔐 Super Gen</h1>
-      <div style={{ background: '#0c0404ff', padding: '20px', borderRadius: '10px', width: '300px', textAlign: 'center' }}>
+      <div style={{ background: '#a45454ff', padding: '20px', borderRadius: '10px', width: '300px', textAlign: 'center' }}>
         
         {/* Display Area */}
         <div style={{ background: 'white', padding: '10px', borderRadius: '5px', marginBottom: '20px', minHeight: '24px', fontWeight: 'bold', color: 'black' }}>
